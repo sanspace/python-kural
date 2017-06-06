@@ -2,6 +2,15 @@
 
 Kural is a wrapper to [getthirukkural API](http://getthirukural.appspot.com).
 
+
+## Installation
+
+Install it using pip.
+
+`pip install kural`
+
+## Usage
+
 Get an API Key from [getthirukkural](http://getthirukural.appspot.com) and you
 can start making API requests as below:
 
